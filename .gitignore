@@ -1,0 +1,12 @@
+*.log
+*.pot
+*.pyc
+*.swp
+.DS_Store
+.ven/
+.coverage
+.ropeproject/
+.sass-cache/
+Gemfile.lock
+node_modules
+vendor/*
