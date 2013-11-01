@@ -1,6 +1,5 @@
 *.log
 *.pot
-*.pyc
 *.swp
 .DS_Store
 .ven/
