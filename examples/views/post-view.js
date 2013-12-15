@@ -19,8 +19,6 @@ define([
       // transform serialized data into model data
       this.model.setFormData(form_data);
 
-      this.model.save();
-
     }
   });
 

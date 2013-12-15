@@ -7,7 +7,8 @@ requirejs.config({
     underscore: '../vendor/lodash/dist/lodash',
     backbone: '../vendor/backbone/backbone',
     text: '../vendor/requirejs-text/text',
-    chaplin: '../vendor/chaplin/chaplin'
+    chaplin: '../vendor/chaplin/chaplin',
+    localstorage: "../vendor/backbone.localStorage/backbone.localStorage"
   },
   shim: {
     underscore: {
